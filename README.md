@@ -19,7 +19,10 @@ The program will go through the file line by line filling out a HashMap that sto
 4. Click the file called "TranslatorGUI" with a type "Executable Jar File" and Enjoy!!
 
 
+
+
 **[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
 
-  I have added in a link to Casa de Internet, a site that contains information about various internet development non profit orgranizations in Latin America. All of these organizations work to develop internet infrastructure and improve technological capabilities of communities in spanish speaking countries. Many of the organizations on Casa de Internet have spent more than twenty years working to expand, stabilize, and update internet access in Latin America.
-  
+  Bringing awareness to the issue is also a main point of the project, since I am incapable of creating internet infrastructure for Latin Americans I have found an organization that works towards accomplishing that feat. Casa de Internet has been working with many other organizations for over 20 years in order to provide stable and affordable internet access for the people of Latin America.
+
+  Above I have added in a link to Casa de Internet, if you have the time please read about some of these organizations and the amazing work that they have done and will continue to do. There are plenty of opportunities to get involved and support these amazing organizations, so take a look!
