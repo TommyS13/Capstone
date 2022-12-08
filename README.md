@@ -1,6 +1,8 @@
 # 499-Solution
 
-  This is the repository that holds the solution for my Capstone Project. The problem I investigated was the lack of internet infrastrcuture and access in Latin America through my disciplines of computer science and Spanish. Computer science and Spanish may seem like two very different subjects, but they can be interconnected in several ways. 
+  This is the repository that holds the solution for my Capstone Project. 
+  
+  The problem I investigated was the lack of internet infrastrcuture and access in Latin America through my disciplines of computer science and Spanish. Computer science and Spanish may seem like two very different subjects, but they can be interconnected in several ways. 
   For example, the study of Spanish can help computer scientists better understand the needs of users from Spanish-speaking countries, allowing them to create more user-friendly and accessible computer systems. In turn, the study of computer science can help Spanish students improve their language skills by using technology such as translation software and online language learning resources.The first part in solving a problem is communicating with the people affected in order to understand it from their point of view. In order to do that we have to be able to speak the same language, so for my solution I decided to create an English-Spanish translator application.
   
 
