@@ -21,7 +21,7 @@ The program will go through the file line by line filling out a HashMap that sto
 
 
 
-**[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
+## **[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
 
   Bringing awareness to the issue is also a main point of the project, since I am incapable of creating internet infrastructure for Latin Americans I have found an organization that works towards accomplishing that feat. Casa de Internet has been working with many other organizations for over 20 years in order to provide stable and affordable internet access for the people of Latin America.
 
