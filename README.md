@@ -6,14 +6,16 @@
   For example, the study of Spanish can help computer scientists better understand the needs of users from Spanish-speaking countries, allowing them to create more user-friendly and accessible computer systems. In turn, the study of computer science can help Spanish students improve their language skills by using technology such as translation software and online language learning resources.The first part in solving a problem is communicating with the people affected in order to understand it from their point of view. In order to do that we have to be able to speak the same language, so for my solution I decided to create an English-Spanish translator application.
   
 
-  It is a Java application that creates a Graphical User Interface(GUI) using the Swing toolkit. 
+  It is a Java application that creates a Graphical User Interface(GUI) using the Swing toolkit. The Swing toolkit allows for the development of a GUI for java programs. 
+  It has the capabilities to create the panel, buttons, and textfields for the application.
 As the point of this application is to be used without requiring internet access, the application translates by using a Comma Seperated Values File(CSV     file).
 The CSV file has roughly 66 thousand words in it, with each line in the file conatining the english word and then the translated word in spanish.
-The program will go through the file line by line filling out a HashMap that stores the english word as the key and the spanish word as the value.
+The program will go through the file line by line filling out a HashMap that stores the english word as the key and the spanish word as the value, while also filling out another HashMap where the reverse is true.
 
-  The Swing toolkit allows for the development of a GUI for java programs. 
-  It has the capabilities to create the panel, buttons, and textfields for the application.
+   It will take in a word or sentence from the user and return a word or sentence that is translated into the opposite language. It will also give users the option to add translations to the dictionary, if there is a word it does not have.  
 
+
+  
 ## How to run the application
 
 1. Download a [Java Development Kit(JDK)](https://www.oracle.com/java/technologies/downloads/) for your respective system
