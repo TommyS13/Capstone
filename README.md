@@ -10,7 +10,8 @@ The program will go through the file line by line filling out a HashMap that sto
 ## How to run the application
 
 1. Download a [Java Development Kit(JDK)](https://www.oracle.com/java/technologies/downloads/
-   - This will allow you to run the .jar file 
+   - It does not matter which version you have, either will allow you to run the .jar file 
+2. 
 
 
 **[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
