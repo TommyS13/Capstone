@@ -14,6 +14,7 @@ The program will go through the file line by line filling out a HashMap that sto
 2. Click the green button that says "Code" in the top right of the page
    - In the drop down menu, click the "Download ZIP"
    - Download it anywhere you can access files easily, preferably your Desktop
+3. Navigate through
 
 
 **[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
