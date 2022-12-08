@@ -1,13 +1,17 @@
 # 499-Solution
 
-  This is my repository that holds the solution for my Capstone Project.
+  This is the repository that holds the solution for my Capstone Project. The problem I investigated was the lack of internet infrastrcuture and access in Latin America through my disciplines of computer science and Spanish. Computer science and Spanish may seem like two very different subjects, but they can be interconnected in several ways. 
+  For example, the study of Spanish can help computer scientists better understand the needs of users from Spanish-speaking countries, allowing them to create more user-friendly and accessible computer systems. In turn, the study of computer science can help Spanish students improve their language skills by using technology such as translation software and online language learning resources.
+  
+  wanted a way to express my unique interdisciplinarity in computer science and spanish so I decided to create an English-Spanish translator application. 
 
   It is a Java application that creates a Graphical User Interface(GUI) using the Swing toolkit. 
 As the point of this application is to be used without requiring internet access, the application translates by using a Comma Seperated Values File(CSV     file).
 The CSV file has roughly 66 thousand words in it, with each line in the file conatining the english word and then the translated word in spanish.
 The program will go through the file line by line filling out a HashMap that stores the english word as the key and the spanish word as the value.
 
-  The Swing toolkit allows for the development of a GUI for java programs. It has the capabilities to create the panel, buttons, and textfields for the application.
+  The Swing toolkit allows for the development of a GUI for java programs. 
+  It has the capabilities to create the panel, buttons, and textfields for the application.
 
 ## How to run the application
 
