@@ -2,10 +2,12 @@
 
   This is my repository that holds the solution for my Capstone Project.
 
-  It is a Java application that creates a Graphical User Interface(GUI) using the Swing Framework. 
+  It is a Java application that creates a Graphical User Interface(GUI) using the Swing toolkit. 
 As the point of this application is to be used without requiring internet access, the application translates by using a Comma Seperated Values File(CSV     file).
 The CSV file has roughly 66 thousand words in it, with each line in the file conatining the english word and then the translated word in spanish.
 The program will go through the file line by line filling out a HashMap that stores the english word as the key and the spanish word as the value.
+
+  The Swing toolkit allows for the development of a GUI for java programs. It creates Textfields, 
 
 ## How to run the application
 
