@@ -11,7 +11,8 @@ The program will go through the file line by line filling out a HashMap that sto
 
 1. Download a [Java Development Kit(JDK)](https://www.oracle.com/java/technologies/downloads/
    - It does not matter which version you have, either will allow you to run the .jar file 
-2. 
+2. Click the green button that says "Code" in the top right of the page
+   - In the drop down menu, click download 
 
 
 **[Casa De Internet](https://www.lacnic.net/629/2/lacnic/casa-de-internet)**
