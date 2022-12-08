@@ -7,7 +7,7 @@ As the point of this application is to be used without requiring internet access
 The CSV file has roughly 66 thousand words in it, with each line in the file conatining the english word and then the translated word in spanish.
 The program will go through the file line by line filling out a HashMap that stores the english word as the key and the spanish word as the value.
 
-  The Swing toolkit allows for the development of a GUI for java programs. It creates Textfields, 
+  The Swing toolkit allows for the development of a GUI for java programs. It has the capabilities to create the panel, buttons, and textfields for the application.
 
 ## How to run the application
 
