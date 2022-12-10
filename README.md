@@ -20,12 +20,12 @@ The program will go through the file line by line filling out a HashMap that sto
 
 1. Download a [Java Development Kit(JDK)](https://www.oracle.com/java/technologies/downloads/) for your respective system
    - It does not matter which version you have, either will allow you to run the .jar file 
-2. Click the green button that says "Code" in the top right of the page
-   - In the drop down menu, click the "Download ZIP"
-   - Extract the files and download it anywhere you can access files easily, preferably your Desktop
-3. You can navigate to the .jar file by clicking through the folders at the top
-   - If you click the top folder every time you will reach the folder "java"
-4. Click the file called "TranslatorGUI" with a type "Executable Jar File" and Enjoy!!
+2. Click the top folder called "Test"
+   - In the next menu, click the top folder again called "src/main/java"
+3. You will now be shown 4 files in the folder "java"
+   - Click on the file called "TranslatorGUI.jar"
+   - Now that you are viewing the .jar file, you will see a download button on the right side of the screen
+4. Download the .jar file to your Desktop, find the application on your desktop and enjoy!
 
 
 
